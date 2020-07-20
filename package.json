@@ -1,0 +1,12 @@
+{
+  "name": "The-Upside-Down-frontend",
+  "version": "1.0.0",
+  "description": "Step inside the Upside Down if you dare!",
+  "main": "index.js",
+  "repository": "git@github.com:dsound-zz/The-Upside-Down-frontend.git",
+  "author": "dsound-zz <demiansims@gmail.com>",
+  "license": "MIT",
+  "engines": {
+    "node": "12.x"
+  }
+}
